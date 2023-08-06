@@ -1,3 +1,5 @@
+[#English](https://github.com/henriquefazolo/henriquefazolo/blob/main/README.md#welcome-to-my-github-profile)
+
 # Bem-vindo ao meu perfil do GitHub!
 
 Olá, sou Henrique Fazolo, um Analista de Sistema e Contador. Uma grande paixão por tecnologia e desenvolvimento de sistemas. 
