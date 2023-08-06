@@ -1,4 +1,4 @@
-[#English](https://github.com/henriquefazolo/henriquefazolo/blob/main/README.md#welcome-to-my-github-profile)
+[#English](https://github.com/henriquefazolo#welcome-to-my-github-profile)
 
 # Bem-vindo ao meu perfil do GitHub!
 
